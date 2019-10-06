@@ -1,6 +1,6 @@
 {
-  "app": {
-    "domain": ""
+  "dotenv": {
+    "file": ".env"
   },
   "paths": {
     "src": "src",
